@@ -1,4 +1,4 @@
-title: Minnowx's Blog
+title: Min's Blog
 description: "Blog"
 author:
   name: "minnowx"
@@ -29,4 +29,5 @@ plugins:
 
 # Custom variables
 owner : "minnowx"
+header_name: "min"
 year : "2024"
