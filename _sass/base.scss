@@ -18,7 +18,7 @@ body {
   color: $body-foreground;
   font-size: 16px;
   line-height: 1.5;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-family: "Microsoft Yahei", "Lato", "proxima-nova", "Helvetica Neue", Arial, sans-serif;
 }
 
 /* General & 'Reset' Stuff */
@@ -37,6 +37,7 @@ section {
 
 h1, h2, h3, h4, h5, h6 {
   margin: 0 0 20px;
+  font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 li {
